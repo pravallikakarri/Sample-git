@@ -1,0 +1,4 @@
+"This is my visual studio code"
+"I'm learning about Git"
+"Git is essential in software development"
+
